@@ -1,0 +1,112 @@
+.test {
+color: black;
+height: 4vh;
+width: 100%;
+border: 1px solid black;
+
+}
+
+.serverlabelDisk {
+  padding-left: 2vw;
+  width: 100%;
+  margin-top: 3vh;
+  background-color: black;
+  height: 4vh;
+  margin-bottom: .5vh;
+ }
+
+.serverlabelDisk p {
+  color: white;
+  line-height: 4vh;
+  height: 4vh;
+}
+
+
+.displayFrame {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) 8fr 1fr;
+  grid-template-rows: repeat(1, 3vh);
+  grid-column-gap: 6px;
+  grid-row-gap: 6px;
+  width: min(800px, 100vw);
+  max-width: 100%;
+  margin-top: 1.2vh;
+  margin-bottom: .7vh;
+}
+
+.volumesMainGrid {
+
+display: grid;
+  grid-template-columns: repeat(3, 1fr) 8fr 1fr;
+  grid-template-rows: repeat(1, 3vh);
+  grid-column-gap: 6px;
+  grid-row-gap: 6px;
+  width: min(800px, 100vw);
+  max-width: 100%;
+margin-bottom: .4vh;
+}
+
+.header {
+  background-color: rgb(11, 12, 61);
+  color: white;
+  font-style: italic;
+  text-align: center;
+  font-size: 0.6rem;
+  line-height: 3vh;
+}
+
+.driveLabelDisk,
+.totalSizeDisk,
+.freeSpaceDisk,
+.freeSpacePerCentDisk {
+  background-color: rgb(79, 94, 125);
+  color: white;
+  text-align: center;
+  font-size: 0.85rem;
+  /* border-radius: 5px; */
+  line-height: 3vh;
+}
+
+/* .driveLabelDisk {
+
+    grid-column: 1 / span 1
+}
+
+.totalSizeDisk {
+
+    grid-column: 2 / span 1
+    
+}
+
+.freeSpaceDisk {
+
+    grid-column: 3 / span 1
+    
+}
+
+.freeSpaceChartBarDisk {
+
+grid-column: 4 / span 1
+
+}
+
+.freeSpacePerCentDisk {
+
+grid-column: 5 / span 1
+
+} */
+
+.freeSpaceChartBarDisk {
+  display: flex;
+  align-items: center;
+  border-left: 1px solid black;
+}
+
+.diskBar {
+  background-color: rgb(27, 110, 41);
+  /* width: 50%; */
+  height: 2vh;
+  border: .5px solid black;
+  border-left: 0;
+}
+

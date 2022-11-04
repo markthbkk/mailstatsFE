@@ -1,0 +1,43 @@
+.DiskStats {
+  padding: 1rem;
+  background-color: rgbwhite;
+  margin: 0 auto;
+  width: min(100vw, 800px);
+  max-width: 95%;
+  color: white;
+  /* border: .5px solid rgb(178, 178, 181); */
+  padding-bottom: 8vh;
+  padding-top: 4vh;
+}
+
+
+.pagelabelDisk {
+margin-top: 0;
+  margin-bottom: 3vh;
+}
+.pagelabelDisk p {
+  width: 50%;
+  text-align: center;
+  background-color: rgb(79, 94, 125);
+  border-radius: 6px;
+  box-shadow: rgba(19, 19, 20, 0.5) 5px 5px 15px 1px;
+  font-size: 2rem;
+  padding: 0.7rem;
+  margin: 0 auto;
+  
+}
+
+.spinnerQueue {
+
+margin: 1.5rem auto;
+display: flex;
+justify-content: space-around;
+
+
+}
+
+
+
+
+
+

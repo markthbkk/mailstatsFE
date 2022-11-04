@@ -1,0 +1,12 @@
+.AppFrame {
+
+    padding-bottom: 2vh;
+    width: min(800px, 100vw);
+    margin: 3vh auto;
+}
+
+.spinner {
+
+margin-top: 35vh;
+
+}
