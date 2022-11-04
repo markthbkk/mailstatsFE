@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mailstatsFE/Home/static/css/main.d9018a4b.chunk.css",
-    "main.js": "/mailstatsFE/Home/static/js/main.5727684b.chunk.js",
-    "main.js.map": "/mailstatsFE/Home/static/js/main.5727684b.chunk.js.map",
-    "runtime-main.js": "/mailstatsFE/Home/static/js/runtime-main.23db2491.js",
-    "runtime-main.js.map": "/mailstatsFE/Home/static/js/runtime-main.23db2491.js.map",
-    "static/js/2.b3acb702.chunk.js": "/mailstatsFE/Home/static/js/2.b3acb702.chunk.js",
-    "static/js/2.b3acb702.chunk.js.map": "/mailstatsFE/Home/static/js/2.b3acb702.chunk.js.map",
-    "index.html": "/mailstatsFE/Home/index.html",
-    "static/css/main.d9018a4b.chunk.css.map": "/mailstatsFE/Home/static/css/main.d9018a4b.chunk.css.map",
-    "static/js/2.b3acb702.chunk.js.LICENSE.txt": "/mailstatsFE/Home/static/js/2.b3acb702.chunk.js.LICENSE.txt"
+    "main.css": "/mailstatsFE/static/css/main.d9018a4b.chunk.css",
+    "main.js": "/mailstatsFE/static/js/main.d87b91ab.chunk.js",
+    "main.js.map": "/mailstatsFE/static/js/main.d87b91ab.chunk.js.map",
+    "runtime-main.js": "/mailstatsFE/static/js/runtime-main.bcf58a37.js",
+    "runtime-main.js.map": "/mailstatsFE/static/js/runtime-main.bcf58a37.js.map",
+    "static/js/2.b3acb702.chunk.js": "/mailstatsFE/static/js/2.b3acb702.chunk.js",
+    "static/js/2.b3acb702.chunk.js.map": "/mailstatsFE/static/js/2.b3acb702.chunk.js.map",
+    "index.html": "/mailstatsFE/index.html",
+    "static/css/main.d9018a4b.chunk.css.map": "/mailstatsFE/static/css/main.d9018a4b.chunk.css.map",
+    "static/js/2.b3acb702.chunk.js.LICENSE.txt": "/mailstatsFE/static/js/2.b3acb702.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23db2491.js",
+    "static/js/runtime-main.bcf58a37.js",
     "static/js/2.b3acb702.chunk.js",
     "static/css/main.d9018a4b.chunk.css",
-    "static/js/main.5727684b.chunk.js"
+    "static/js/main.d87b91ab.chunk.js"
   ]
 }
