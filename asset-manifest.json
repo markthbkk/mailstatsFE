@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mailstatsFE/static/css/main.d9018a4b.chunk.css",
+    "main.css": "/mailstatsFE/static/css/main.94b1398d.chunk.css",
     "main.js": "/mailstatsFE/static/js/main.2adfbc0b.chunk.js",
     "main.js.map": "/mailstatsFE/static/js/main.2adfbc0b.chunk.js.map",
     "runtime-main.js": "/mailstatsFE/static/js/runtime-main.bcf58a37.js",
@@ -8,13 +8,13 @@
     "static/js/2.8922b94b.chunk.js": "/mailstatsFE/static/js/2.8922b94b.chunk.js",
     "static/js/2.8922b94b.chunk.js.map": "/mailstatsFE/static/js/2.8922b94b.chunk.js.map",
     "index.html": "/mailstatsFE/index.html",
-    "static/css/main.d9018a4b.chunk.css.map": "/mailstatsFE/static/css/main.d9018a4b.chunk.css.map",
+    "static/css/main.94b1398d.chunk.css.map": "/mailstatsFE/static/css/main.94b1398d.chunk.css.map",
     "static/js/2.8922b94b.chunk.js.LICENSE.txt": "/mailstatsFE/static/js/2.8922b94b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcf58a37.js",
     "static/js/2.8922b94b.chunk.js",
-    "static/css/main.d9018a4b.chunk.css",
+    "static/css/main.94b1398d.chunk.css",
     "static/js/main.2adfbc0b.chunk.js"
   ]
 }
