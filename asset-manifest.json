@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mailstatsFE/static/css/main.bbbe93fb.chunk.css",
-    "main.js": "/mailstatsFE/static/js/main.2adfbc0b.chunk.js",
-    "main.js.map": "/mailstatsFE/static/js/main.2adfbc0b.chunk.js.map",
+    "main.css": "/mailstatsFE/static/css/main.45e7ad9f.chunk.css",
+    "main.js": "/mailstatsFE/static/js/main.33848e28.chunk.js",
+    "main.js.map": "/mailstatsFE/static/js/main.33848e28.chunk.js.map",
     "runtime-main.js": "/mailstatsFE/static/js/runtime-main.bcf58a37.js",
     "runtime-main.js.map": "/mailstatsFE/static/js/runtime-main.bcf58a37.js.map",
     "static/js/2.8922b94b.chunk.js": "/mailstatsFE/static/js/2.8922b94b.chunk.js",
     "static/js/2.8922b94b.chunk.js.map": "/mailstatsFE/static/js/2.8922b94b.chunk.js.map",
     "index.html": "/mailstatsFE/index.html",
-    "static/css/main.bbbe93fb.chunk.css.map": "/mailstatsFE/static/css/main.bbbe93fb.chunk.css.map",
+    "static/css/main.45e7ad9f.chunk.css.map": "/mailstatsFE/static/css/main.45e7ad9f.chunk.css.map",
     "static/js/2.8922b94b.chunk.js.LICENSE.txt": "/mailstatsFE/static/js/2.8922b94b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcf58a37.js",
     "static/js/2.8922b94b.chunk.js",
-    "static/css/main.bbbe93fb.chunk.css",
-    "static/js/main.2adfbc0b.chunk.js"
+    "static/css/main.45e7ad9f.chunk.css",
+    "static/js/main.33848e28.chunk.js"
   ]
 }
