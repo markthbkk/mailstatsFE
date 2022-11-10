@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mailstatsFE/static/css/main.90ad312f.chunk.css",
-    "main.js": "/mailstatsFE/static/js/main.1e8c1416.chunk.js",
-    "main.js.map": "/mailstatsFE/static/js/main.1e8c1416.chunk.js.map",
+    "main.js": "/mailstatsFE/static/js/main.c9acfb5e.chunk.js",
+    "main.js.map": "/mailstatsFE/static/js/main.c9acfb5e.chunk.js.map",
     "runtime-main.js": "/mailstatsFE/static/js/runtime-main.bcf58a37.js",
     "runtime-main.js.map": "/mailstatsFE/static/js/runtime-main.bcf58a37.js.map",
     "static/js/2.c2f9c9d5.chunk.js": "/mailstatsFE/static/js/2.c2f9c9d5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bcf58a37.js",
     "static/js/2.c2f9c9d5.chunk.js",
     "static/css/main.90ad312f.chunk.css",
-    "static/js/main.1e8c1416.chunk.js"
+    "static/js/main.c9acfb5e.chunk.js"
   ]
 }
